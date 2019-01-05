@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <VuePlayground msg="Welcome to NateVeccs Think-tank!"/>
+    <VuePlayground msg="Welcome to Side Hustle Think-tank!"/>
   </div>
 </template>
 
